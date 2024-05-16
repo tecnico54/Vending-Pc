@@ -1,12 +1,11 @@
-footer{
-    margin: 0;
-    padding: 2%;
-    padding-left: 5%;
-    text-align: center;
-    background-color: #1676E5;
-    color: white;
-    font-size: 300%;
-}
+footer {
+            background-color: #1676E5;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
 .f{
     padding-left: 10%;
 }
