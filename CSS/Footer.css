@@ -6,6 +6,7 @@ footer{
     background-color: #1676E5;
     color: white;
     font-size: 300%;
+    position: flex;
 }
 .f{
     padding-left: 10%;
